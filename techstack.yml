@@ -2,7 +2,7 @@ repo_name: tony199555/subscribeVue
 report_id: 3269b055aeea539d4385389c8e84e41b
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:37:37+00:00'
+timestamp: '2024-02-29T18:49:42+00:00'
 requested_by: pengchujin
 provider: github
 branch: master
@@ -57,7 +57,7 @@ tools:
   detection_source_url: https://github.com/tony199555/subscribeVue
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.13.7
   license: MIT
